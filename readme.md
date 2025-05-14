@@ -7,3 +7,5 @@ RTSS → Setup → Plugins → [check] OverlayEditor.dll → Setup → Overlay �
 
 To change font:
 RTSS → On-Screen Display rendering mode: [Raster 3D]
+-----
+Added RTSS_HW2.ovx - overlay with framerate graph
